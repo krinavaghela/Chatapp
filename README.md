@@ -1,2 +1,2 @@
 # Chatapp
-NextJS Chat App
+Realtime Chat App
